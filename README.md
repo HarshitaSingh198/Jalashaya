@@ -43,7 +43,7 @@ Jalashaya is a water delivery app that connects you to your local nearby water p
 
 To install Jalashaya, follow these steps:
 
-1. Download the app from the [App Store](#) (for iOS) or [Google Play Store](#) (for Android).
+1. Download the app from the [Google Play Store](#) (for Android).
 2. Register on the app using your mobile number and email address.
 3. Provide your location to find nearby water providers.
 4. Select your preferred water provider and place an order.
